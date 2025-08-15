@@ -1,2 +1,3 @@
-# awesome-traffic-bengaluru
-Awesome list on Traffic in Bengaluru
+# Awesome Traffic Bengaluru
+
+> Awesome list on Traffic in Bengaluru
