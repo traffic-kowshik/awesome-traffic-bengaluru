@@ -12,3 +12,5 @@
 - https://github.com/Vonter/bmtc-gtfs: Unofficial GTFS dataset for BMTC.
 - https://www.tomtom.com/traffic-index/bengaluru-traffic/
 - [BMTC & BMRCL data now available for download](https://tdh.dult-karnataka.com/)
+- https://www.data.gov.in/catalog/bangalore-traffic-lights
+- https://data.opencity.in/dataset/bengaluru-city-traffic-signal-data
